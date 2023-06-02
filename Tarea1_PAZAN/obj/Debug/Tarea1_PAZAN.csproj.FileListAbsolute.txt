@@ -1,0 +1,8 @@
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\bin\Debug\Tarea1_PAZAN.exe.config
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\bin\Debug\Tarea1_PAZAN.exe
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\bin\Debug\Tarea1_PAZAN.pdb
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\obj\Debug\Tarea1_PAZAN.csproj.AssemblyReference.cache
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\obj\Debug\Tarea1_PAZAN.csproj.SuggestedBindingRedirects.cache
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\obj\Debug\Tarea1_PAZAN.csproj.CoreCompileInputs.cache
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\obj\Debug\Tarea1_PAZAN.exe
+C:\Users\pazan mera\Documents\Proyecto_C#\Tarea1_PAZAN\Tarea1_PAZAN\obj\Debug\Tarea1_PAZAN.pdb
